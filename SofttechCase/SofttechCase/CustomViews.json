@@ -1,0 +1,18 @@
+[
+    {
+        "type": "header",
+        "properties":"{\"text\":\"Custom Header\"}"
+    },
+    {
+        "type": "textInput",
+        "properties":"{\"text\":\"Custom Text Input\"}"
+    },
+    {
+        "type": "datePicker",
+        "properties":"{\"date\":\"2020-02-27T00:00:00Z\"}"
+    },
+    {
+        "type": "entityList",
+        "properties":"{\"text\":\"Custom Entity List\",\"entities\":[\"Apple\",\"Grape\",\"Banana\",\"Orange\",\"Strawberry\"]}"
+    }    
+]
