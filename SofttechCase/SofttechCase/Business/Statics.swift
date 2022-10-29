@@ -10,7 +10,7 @@ import UIKit
 
 //View ler oluşurken Y eksenindeki dizilimlerinin başlangıç noktası ve dizilimin sekansı olarak kullanıldı
 struct yAxis{
-    static var sequence : CGFloat = 50
+    static var sequence : CGFloat = 20
 }
 
 //ihtiyaca binaen geri dönüş tipi ve dosya adı parametre olarak alınıp generic halde kullanılabilir
